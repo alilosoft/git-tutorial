@@ -1,5 +1,5 @@
 # Git Tutorial
 ## Introduction
 ### What is VCS (Versioning Control System)
-say something here
+A VCS is a tool used by software developers to track and manage their code base.
 ### What is Git  
