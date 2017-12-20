@@ -1,4 +1,3 @@
 # Git Tutorial
 ## Introduction
-### VCS (Versioning Control System)
-
+### What is VCS (Versioning Control System)
